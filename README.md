@@ -1,0 +1,1 @@
+Certificate generator can be useful to generate certificates in bulk with a data set , that contains the required information and template of certificate. I have created This project for my own college using MongoDB , Express.js , vanilla CSS and Vanilla Js
